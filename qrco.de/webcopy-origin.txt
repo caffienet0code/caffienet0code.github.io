@@ -1,0 +1,24 @@
+Uri: https://qrco.de/bem4Ob
+File Name: C:\Users\karan\Downloads\vcard\qrco.de\bem4Ob.html
+Content Type: text/html
+
+Uri: https://qrco.de/css/build/pages/dvcard/template_normal.min.css?v=5408057bcc8157901d17aff58bd450725beb9ba3
+File Name: C:\Users\karan\Downloads\vcard\qrco.de\css\build\pages\dvcard\template_normal.min.css
+Content Type: text/css
+
+Uri: https://qrco.de/handlePost/bem4Ob/?download=true
+File Name: C:\Users\karan\Downloads\vcard\qrco.de\handlePost\bem4Ob\vcard_shivender s._jamwal.vcf
+Content Type: text/x-vcard
+
+Uri: https://qrco.de/img/favicon/favicon.ico
+File Name: C:\Users\karan\Downloads\vcard\qrco.de\img\favicon\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://qrco.de/js/build/angular.rendering.min.js?v=5408057bcc8157901d17aff58bd450725beb9ba3
+File Name: C:\Users\karan\Downloads\vcard\qrco.de\js\build\angular.rendering.min.js
+Content Type: application/javascript
+
+Uri: https://qrco.de/public/lib/jquery/dist/jquery.min.js?v=5408057bcc8157901d17aff58bd450725beb9ba3
+File Name: C:\Users\karan\Downloads\vcard\qrco.de\public\lib\jquery\dist\jquery.min.js
+Content Type: application/javascript
+

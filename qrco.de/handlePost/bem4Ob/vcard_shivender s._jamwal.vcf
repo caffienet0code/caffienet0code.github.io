@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//QR-Code-Generator.com//EN
+N:Jamwal;Shivender S.;;;
+FN:Shivender S. Jamwal
+ORG:Kluvor;
+TITLE:Co-CEO
+EMAIL;TYPE=PREF,INTERNET:sjamwal@kluvor.co
+TEL;TYPE=CELL,voice:+1 (437) 260-0301
+TEL;TYPE=WORK,voice:
+TEL;TYPE=WORK,fax:
+ADR;TYPE=WORK;type=pref:;; ;;;;
+URL:www.kluvor.co
+
+NOTE:
+
+REV:2008-04-24T19:52:43Z
+END:VCARD
